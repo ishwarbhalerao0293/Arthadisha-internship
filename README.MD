@@ -11,4 +11,4 @@ I am learning new technologies, improving my technical skills, and gaining pract
 
 I am passionate about learning, exploring new technologies, and growing as a developer. 
 ## Learning Goals
-Learning Git,Github,HTML,CSS,Javascript,Reactjs,Nextjs,java,SQL,powerbi.Excel,dsa
+Learning Git,Github,HTML,CSS,Javascript,Reactjs,Nextjs,java,SQL,powerbi.Excel,dsa,Leetcode
